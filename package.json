@@ -4,12 +4,13 @@
     "description": "JDash core library",
     "main": "./lib/index.js",
     "types": "./lib/definitions/index.d.ts",
-    "scripts": {
-        "test": "test"
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:aibrite/jdash-core.git"
     },
     "devDependencies": {
         "@types/es6-promise": "0.0.32"
     },
-    "author": "aibrite inc.",
+    "author": "Aibrite Inc.",
     "license": "ISC"
 }

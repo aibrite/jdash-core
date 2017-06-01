@@ -1,0 +1,15 @@
+{
+    "name": "jdash-core",
+    "version": "1.0.0",
+    "description": "JDash core library",
+    "main": "./lib/index.js",
+    "types": "./lib/definitions/index.d.ts",
+    "scripts": {
+        "test": "test"
+    },
+    "devDependencies": {
+        "@types/es6-promise": "0.0.32"
+    },
+    "author": "aibrite inc.",
+    "license": "ISC"
+}
